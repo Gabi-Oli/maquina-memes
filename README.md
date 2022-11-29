@@ -1,4 +1,4 @@
-# Máquina de memes
+# Máquina de memes FRONT-END
 
 Projeto realizado no evento da DIO
 
